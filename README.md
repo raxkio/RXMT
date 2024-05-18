@@ -1,7 +1,7 @@
 # Raxkio's Multitool (RXMT)
 
 <div align="center">
-  <img src="https://ibb.co/28Gzbpk" alt="RXMT Logo">
+  <img src="https://i.ibb.co/WDmrTR2/Untitled-2.png" alt="RXMT Logo">
 </div>
 
 ## Overview
